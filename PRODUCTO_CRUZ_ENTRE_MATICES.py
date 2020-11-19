@@ -5,6 +5,8 @@ import time as clock
 n=int(input("Marque cuantos elementos tendran los vectores: "))
 V=[]
 W=[]
+
+
 cln.system("cls")
 
 print(f"{' '*35} {'--'*5} Empezando con la Vector V {'--'*5}  ")
